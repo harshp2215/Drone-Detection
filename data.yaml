@@ -1,0 +1,6 @@
+train: final_dataset/images/train
+val: final_dataset/images/val
+test: final_dataset/images/test
+
+nc: 7
+names: ['aeroplane', 'bird', 'bird_drone', 'drone', 'missile', 'mosquito', 'mosquito_drone']
